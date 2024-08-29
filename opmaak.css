@@ -102,17 +102,24 @@ body {background-color: grey;}
 .top-level-menu a:hover { color: #000000; }
 
 <ul class="top-level-menu">
-    <li><a href="#">algemene-informatie</a></li>
     <li><a href="#">index</a></li>
+    <li><a href="#">compressie</a></li>
+    <li>
+        <a href="#">compressie</a>
         <ul class="second-level-menu">
-            <li><a href="#">algemene-informatie</a></li>
-            <li><a href="#">bestandsformaten</a></li>
+            <li><a href="#">kleurenstelsel</a></li>
+            <li><a href="#">kleurenstelsel</a></li>
             <li>
-                <a href="#">binairstelsel</a>
+                <a href="#">kleurenstelsel</a>
                 <ul class="third-level-menu">
-                    <li><a href="#">compressie</a></li>
                     <li><a href="#">index</a></li>
-                    <li><a href="#">kleurenstelsel</a></li>
-                  </li>
-                    </ul>
+                    <li><a href="#">index</a></li>
+                    <li><a href="#">index</a></li>
+                    <li><a href="#">index</a></li>
+                </ul>
+            </li>
+            <li><a href="#">Seattle</a></li>
+        </ul>
+    </li>
+    <li><a href="#">Contact</a></li>
 </ul>
