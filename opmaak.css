@@ -75,7 +75,7 @@ body {background-color: rgb(255, 255, 255);}
     float: left;
     height: 30px;
     width: 150px;
-    background: #ffffff;
+    background: #181818;
 }
 .top-level-menu > li:hover { background: #b24a06; }
 
@@ -99,4 +99,4 @@ body {background-color: rgb(255, 255, 255);}
     display: block;
     line-height: 30px;
 }
-.top-level-menu a:hover { color: #ffffff; }
+.top-level-menu a:hover { color: #8a1c1c; }
