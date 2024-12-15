@@ -38,9 +38,9 @@ body {background-color: rgb(255, 255, 255);}
 .third-level-menu > li
 {
     height: 30px;
-    background: #999999;
+    background: #ee6105;
 }
-.third-level-menu > li:hover { background: #CCCCCC; }
+.third-level-menu > li:hover { background: #b24a06; }
 
 .second-level-menu
 {
@@ -58,9 +58,9 @@ body {background-color: rgb(255, 255, 255);}
 {
     position: relative;
     height: 30px;
-    background: #999999;
+    background: #ee6105;
 }
-.second-level-menu > li:hover { background: #CCCCCC; }
+.second-level-menu > li:hover { background: #b24a06; }
 
 .top-level-menu
 {
@@ -75,9 +75,9 @@ body {background-color: rgb(255, 255, 255);}
     float: left;
     height: 30px;
     width: 150px;
-    background: #999999;
+    background: #3d3d3d;
 }
-.top-level-menu > li:hover { background: #CCCCCC; }
+.top-level-menu > li:hover { background: #b24a06; }
 
 .top-level-menu li:hover > ul
 {
@@ -91,7 +91,7 @@ body {background-color: rgb(255, 255, 255);}
 .top-level-menu a /* Apply to all links inside the multi-level menu */
 {
     font: bold 14px Arial, Helvetica, sans-serif;
-    color: #FFFFFF;
+    color: #fc0000;
     text-decoration: none;
     padding: 0 0 0 10px;
 
@@ -99,4 +99,4 @@ body {background-color: rgb(255, 255, 255);}
     display: block;
     line-height: 30px;
 }
-.top-level-menu a:hover { color: #000000; }
+.top-level-menu a:hover { color: #ffffff; }
